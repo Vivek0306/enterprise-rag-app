@@ -1,0 +1,415 @@
+================================================================================
+
+                    ACME CORPORATION - EMPLOYEE HANDBOOK
+
+================================================================================
+
+Document Version: 4.2
+
+Effective Date: January 1, 2026
+
+Target Audience: All Full-Time, Part-Time, and Contract Employees
+
+
+
+--------------------------------------------------------------------------------
+
+TABLE OF CONTENTS
+
+--------------------------------------------------------------------------------
+
+SECTION 1: CODE OF CONDUCT & WORKPLACE ETHICS
+
+SECTION 2: WORK HOURS, ATTENDANCE & REMOTE WORK POLICY
+
+SECTION 3: COMPENSATION, BENEFITS & EXPENSE REIMBURSEMENT
+
+SECTION 4: LEAVE & TIME-OFF POLICIES
+
+SECTION 5: INFORMATION TECHNOLOGY, DATA PRIVACY & CYBERSECURITY
+
+SECTION 6: HEALTH, SAFETY & ENVIRONMENTAL POLICIES
+
+SECTION 7: DIVERSITY, EQUITY, INCLUSION & ANTI-HARASSMENT
+
+SECTION 8: INTELLECTUAL PROPERTY & CONFIDENTIALITY
+
+SECTION 9: PERFORMANCE MANAGEMENT & DISCIPLINARY ACTIONS
+
+SECTION 10: SEPARATION OF EMPLOYMENT & EXIT PROCEDURES
+
+
+
+================================================================================
+
+SECTION 1: CODE OF CONDUCT & WORKPLACE ETHICS
+
+================================================================================
+
+
+
+1.1 General Professional Conduct
+
+ACME Corporation expects all employees to adhere to the highest standards of integrity, professionalism, and honesty. Employees must treat colleagues, clients, vendors, and partners with respect and courtesy at all times. Discrimination, intimidation, and unprofessional demeanor will not be tolerated.
+
+
+
+1.2 Conflict of Interest
+
+Employees must avoid any interest, investment, or association that interferes, or appears to interfere, with their independent judgment in the performance of their duties at ACME Corporation. 
+
+- Outside Employment: Full-time employees may not hold outside employment (moonlighting) without prior written consent from their Department Manager and Human Resources.
+
+- Personal Investments: Employees may not hold substantial financial interests in any competitor, vendor, or client of ACME Corporation without full disclosure to HR.
+
+
+
+1.3 Gifts and Gratuities
+
+Employees may not accept gifts, entertainment, or hospitality valued at over $100 USD from any single vendor, client, or external partner per calendar year. Any gift exceeding this value must be declared to HR and either returned or donated to an approved charitable entity.
+
+
+
+1.4 Compliance with Laws
+
+All personnel must comply strictly with applicable local, state, federal, and international laws, including but not limited to the Foreign Corrupt Practices Act (FCPA), antitrust regulations, insider trading rules, and environmental laws.
+
+
+
+================================================================================
+
+SECTION 2: WORK HOURS, ATTENDANCE & REMOTE WORK POLICY
+
+================================================================================
+
+
+
+2.1 Standard Work Hours
+
+The standard workweek at ACME Corporation consists of 40 hours, typically distributed across Monday through Friday, 9:00 AM to 5:00 PM local time, with a 1-hour unpaid meal break daily. Core operating hours during which all full-time team members are expected to be available for collaboration are 10:00 AM to 3:00 PM local time.
+
+
+
+2.2 Flexible Schedules & Flextime
+
+Employees may request adjusted schedules subject to manager approval. Flex requests must maintain core hours coverage and ensure full 40-hour weekly output. Approved flex arrangements must be documented in writing and filed with HR.
+
+
+
+2.3 Attendance and Punctuality
+
+Regular, predictable attendance is an essential function of every position. If an employee cannot report to work due to illness or emergency, they must notify their immediate supervisor via email or Slack at least 30 minutes prior to their scheduled start time. Unexcused absences for three consecutive business days will be treated as voluntary resignation (job abandonment).
+
+
+
+2.4 Remote and Hybrid Work Framework
+
+- Eligibility: Employees who have completed their initial 90-day probationary period may request a hybrid or full-remote arrangement, subject to manager evaluation of role feasibility.
+
+- Core Requirements: Remote workers must maintain a secure, private home office space equipped with reliable high-speed internet (minimum 50 Mbps download / 10 Mbps upload).
+
+- Equipment: ACME Corporation provides a standard issue laptop, monitor, keyboard, mouse, and headset. Personal devices may not be connected to corporate networks without MDM (Mobile Device Management) enrollment.
+
+
+
+================================================================================
+
+SECTION 3: COMPENSATION, BENEFITS & EXPENSE REIMBURSEMENT
+
+================================================================================
+
+
+
+3.1 Payroll and Compensation
+
+Paydays occur semi-monthly on the 15th and the last business day of each month. Payment is made via direct deposit to up to two designated bank accounts per employee. Payslips and tax withholdings are accessible 24/7 via the ACME Employee HR Portal.
+
+
+
+3.2 Overtime Approval for Non-Exempt Employees
+
+Non-exempt employees working beyond 40 hours per week will receive overtime pay at 1.5 times their regular hourly rate. All overtime work must be pre-approved in writing by the department supervisor prior to performing the work. Working unauthorized overtime is subject to disciplinary action.
+
+
+
+3.3 Health and Medical Benefits
+
+Full-time employees are eligible for health, dental, and vision insurance beginning on the first day of the calendar month following 30 days of continuous employment. ACME covers 80% of individual premiums and 60% of family dependent premiums.
+
+
+
+3.4 Expense Reimbursement Policy
+
+- Eligible Expenses: Business travel expenses, client entertainment (up to $75 per person), and approved job-related certifications.
+
+- Expense Reports: Expense reports must be submitted via the Concur portal within 30 days of incurring the expense, accompanied by itemized receipts for any transaction over $25.
+
+- Per Diem Allowances: Daily per diem allowances for business travel are set at $65/day for Tier-2 cities and $85/day for Tier-1 major metro areas.
+
+
+
+================================================================================
+
+SECTION 4: LEAVE & TIME-OFF POLICIES
+
+================================================================================
+
+
+
+4.1 Paid Time Off (PTO)
+
+ACME Corporation provides a unified Paid Time Off (PTO) bucket for vacation, personal days, and short-term illness.
+
+- Accrual Rates:
+
+  * Years 0-3 of employment: 15 days (10 hours accrued per month)
+
+  * Years 4-7 of employment: 20 days (13.33 hours accrued per month)
+
+  * Years 8+ of employment: 25 days (16.66 hours accrued per month)
+
+- Carryover Rules: A maximum of 5 unused PTO days may be carried over into the following calendar year. Any additional accrued PTO above the 5-day cap will be forfeited on December 31st unless forbidden by local state laws.
+
+
+
+4.2 Paid Holidays
+
+ACME observes 11 standard paid holidays per year:
+
+1. New Year's Day
+
+2. Martin Luther King Jr. Day
+
+3. Memorial Day
+
+4. Juneteenth
+
+5. Independence Day
+
+6. Labor Day
+
+7. Veterans Day
+
+8. Thanksgiving Day
+
+9. Day after Thanksgiving
+
+10. Christmas Eve
+
+11. Christmas Day
+
+
+
+4.3 Parental Leave
+
+ACME Corporation provides up to 12 weeks of 100% paid Parental Leave for eligible full-time employees following the birth, adoption, or foster placement of a child. Employees must have at least 12 months of continuous service to qualify. Parental Leave must be taken within the first 12 months following the qualifying event.
+
+
+
+4.4 Bereavement Leave
+
+Employees are granted up to 5 consecutive paid business days of Bereavement Leave for the loss of an immediate family member (spouse, child, parent, sibling) and up to 3 days for extended family members (grandparent, aunt, uncle, in-law).
+
+
+
+================================================================================
+
+SECTION 5: INFORMATION TECHNOLOGY, DATA PRIVACY & CYBERSECURITY
+
+================================================================================
+
+
+
+5.1 Password and Authentication Standards
+
+All employees must utilize strong passwords containing a minimum of 14 characters, including uppercase, lowercase, numerical, and special characters. Passwords must be changed every 90 days. Multi-Factor Authentication (MFA) is strictly mandatory across all enterprise systems (SSO, VPN, Email, Cloud Storage).
+
+
+
+5.2 Acceptable Use of IT Infrastructure
+
+Company-provided computers, mobile devices, internet connections, and email accounts are intended for business purposes. Reasonable, minimal personal use is permitted as long as it does not violate security policies or interfere with job performance.
+
+Prohibited Activities:
+
+- Downloading unauthorized third-party software, applications, or browser extensions.
+
+- Hosting unauthorized personal web servers or peer-to-peer (P2P) file sharing services.
+
+- Accessing illegal, offensive, or sexually explicit material via corporate networks.
+
+
+
+5.3 Data Classification & Handling
+
+Information within ACME Corporation is categorized into three levels:
+
+1. Public: Marketing assets, public press releases.
+
+2. Internal: Internal memos, company slide decks, department wikis.
+
+3. Confidential/Restricted: Source code, customer PII (Personally Identifiable Information), financial statements, employee health records.
+
+Restricted data must never be transferred to personal storage devices, unencrypted cloud services, or external unauthorized recipients.
+
+
+
+5.4 Incident Reporting Protocol
+
+Employees must immediately report any suspected security breach, lost device, phishing attempt, or unauthorized data exposure to the IT Security Operation Center (SOC) at security@acme.corp or via emergency Slack channel #sec-ops-urgent within 1 hour of discovery.
+
+
+
+================================================================================
+
+SECTION 6: HEALTH, SAFETY & ENVIRONMENTAL POLICIES
+
+================================================================================
+
+
+
+6.1 Workplace Health and Safety Compliance
+
+ACME Corporation is dedicated to providing a safe and healthy work environment compliant with OSHA (Occupational Safety and Health Administration) regulations. Employees must follow all safety protocols, keep work areas clean, and immediately report hazards to the Facilities department.
+
+
+
+6.2 Emergency Evacuation Procedures
+
+In the event of a fire, earthquake, or facility emergency:
+
+- Immediately stop work and follow illuminated exit signs to leave the building via designated stairwells. Do not use elevators.
+
+- Assemble at the designated Muster Point (Parking Lot B, North East Quad).
+
+- Department leads will perform headcount verification and report missing personnel to emergency responders.
+
+
+
+6.3 Substance-Free Workplace Policy
+
+ACME Corporation maintains a zero-tolerance policy for drug and alcohol use on company premises. Employees are prohibited from possessing, consuming, selling, or working under the influence of illegal drugs, unauthorized prescription medication, or alcohol while on company property or while operating company vehicles.
+
+
+
+6.4 Environmental Sustainability Guidelines
+
+Employees are encouraged to minimize waste by reducing paper usage, using digital signatures, utilizing energy-saving modes on workstation screens, and adhering to office recycling and composting programs.
+
+
+
+================================================================================
+
+SECTION 7: DIVERSITY, EQUITY, INCLUSION & ANTI-HARASSMENT
+
+================================================================================
+
+
+
+7.1 Equal Employment Opportunity (EEO) Statement
+
+ACME Corporation is an equal opportunity employer. We prohibit discrimination against any employee or applicant based on race, color, religion, sex, national origin, age, disability, genetic information, veteran status, sexual orientation, or gender identity/expression.
+
+
+
+7.2 Anti-Harassment and Anti-Bulleing Policy
+
+ACME is committed to maintaining a work environment free of harassment, including sexual harassment, physical intimidation, verbal abuse, or hostile work environments.
+
+- Sexual Harassment defined: Unwelcome sexual advances, requests for sexual favors, or visual/verbal conduct of a sexual nature that creates an intimidating or offensive work environment.
+
+- Microaggressions and Bullying: Repeated targeted behaviors intended to humiliate, degrade, or undermine colleagues are strictly prohibited.
+
+
+
+7.3 Complaint and Investigation Procedure
+
+1. Reporting: Employees may report incidents directly to HR, their supervisor, or anonymously via the ACME Ethics Hotline (1-800-555-ACME).
+
+2. Investigation: HR will initiate a prompt, impartial investigation into all formal allegations within 48 hours.
+
+3. Non-Retaliation: Retaliation against any individual for filing a report in good faith or participating in an investigation is strictly illegal and will result in immediate termination of employment.
+
+
+
+================================================================================
+
+SECTION 8: INTELLECTUAL PROPERTY & CONFIDENTIALITY
+
+================================================================================
+
+
+
+8.1 Proprietary Information Agreement (PIA)
+
+All inventions, software code, designs, algorithms, documentation, customer lists, and processes developed by an employee during their tenure at ACME Corporation, within the scope of their employment or utilizing company resources, are the exclusive intellectual property of ACME Corporation.
+
+
+
+8.2 Non-Disclosure of Confidential Information
+
+Employees may not disclose proprietary or confidential information to any external party without an executed Non-Disclosure Agreement (NDA) and express authorization from the Legal Department. This obligation remains binding even after the termination of employment.
+
+
+
+8.3 Social Media and Public Statements
+
+Employees may not speak to news outlets, journalists, or post official statements on social media on behalf of ACME Corporation unless officially designated as an authorized spokesperson by the Corporate Communications team. Personal posts expressing opinions on industry topics should explicitly state: "Opinions expressed are strictly my own and do not represent ACME Corporation."
+
+
+
+================================================================================
+
+SECTION 9: PERFORMANCE MANAGEMENT & DISCIPLINARY ACTIONS
+
+================================================================================
+
+
+
+9.1 Performance Reviews and Check-Ins
+
+ACME conducts continuous performance management consisting of weekly 1-on-1 check-ins, mid-year alignment reviews, and an annual formal review occurring in November. Performance is evaluated against quantitative Key Performance Indicators (KPIs) and qualitative core values.
+
+
+
+9.2 Progressive Discipline Framework
+
+When performance or conduct falls below acceptable standards, ACME generally follows a progressive disciplinary procedure:
+
+1. Step 1: Verbal Warning (Documented internally by supervisor)
+
+2. Step 2: Written Reprimand (Placed in permanent HR file)
+
+3. Step 3: Performance Improvement Plan (PIP) - A formal 30-to-60-day measurable improvement protocol.
+
+4. Step 4: Suspension or Termination of Employment.
+
+*Note: ACME Corporation reserves the right to skip disciplinary steps or initiate immediate termination for severe violations such as theft, violence, fraud, or serious breach of security.
+
+
+
+================================================================================
+
+SECTION 10: SEPARATION OF EMPLOYMENT & EXIT PROCEDURES
+
+================================================================================
+
+
+
+10.1 Resignation Procedures
+
+Employees electing to resign from their position are requested to provide a minimum of two (2) weeks' written notice to their immediate supervisor and HR manager. Executive and director-level roles are requested to provide four (4) weeks' notice to facilitate smooth transitions.
+
+
+
+10.2 Final Pay and Offboarding
+
+- Final Paycheck: Issued on the next standard payday or sooner as required by state law. Accrued, unused PTO (up to the allowed limit) will be paid out upon separation.
+
+- Return of Company Property: On or before the final day of employment, employees must return all company property, including laptops, access badges, credit cards, software tokens, and physical documentation.
+
+
+
+10.3 Exit Interview
+
+HR will conduct a confidential Exit Interview prior to the employee's last day. The exit interview allows departing personnel to share feedback regarding company culture, management efficiency, and recommendations for organizational growth.

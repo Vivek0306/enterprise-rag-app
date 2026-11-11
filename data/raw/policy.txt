@@ -1,0 +1,177 @@
+================================================================================
+                     NEXUS ENTERPRISE SOLUTIONS INC.
+                       GLOBAL EMPLOYEE POLICY MANUAL
+================================================================================
+Document ID: HR-POL-2026-V4.2
+Effective Date: January 1, 2026
+Applicability: All Full-Time, Part-Time, and Contract Employees
+================================================================================
+
+--------------------------------------------------------------------------------
+TABLE OF CONTENTS
+--------------------------------------------------------------------------------
+1. INTRODUCTION & WELCOME
+2. AT-WILL EMPLOYMENT STATEMENT
+3. EQUAL EMPLOYMENT OPPORTUNITY (EEO) POLICY
+4. ANTI-HARASSMENT AND DISCRIMINATION POLICY
+5. CODE OF CONDUCT AND ETHICAL STANDARDS
+6. CONFLICT OF INTEREST DISCLOSURES
+7. WORKPLACE HOURS AND ATTENDANCE EXPECTATIONS
+8. REMOTE WORK AND HYBRID ARRANGEMENTS
+9. COMPENSATION, OVERTIME, AND PAYROLL PROCEDURES
+10. TIME OFF, LEAVE, AND VACATION BENEFITS
+11. HEALTH, SAFETY, AND WORKPLACE SECURITY
+12. CONFIDENTIALITY AND NON-DISCLOSURE AGREEMENTS
+13. INTELLECTUAL PROPERTY & INVENTION ASSIGNMENT
+14. ACCEPTABLE USE OF TECHNOLOGY & INFORMATION SECURITY
+15. SOCIAL MEDIA AND PUBLIC COMMUNICATIONS
+16. DRUG-FREE AND ALCOHOL-FREE WORKPLACE
+17. DRESS CODE AND PROFESSIONAL APPEARANCE
+18. PERFORMANCE EVALUATIONS AND PROGRESSIVE DISCIPLINE
+19. TERMINATION, RESIGNATION, AND OFFBOARDING
+20. EMPLOYEE ACKNOWLEDGMENT & SIGN-OFF
+
+--------------------------------------------------------------------------------
+1. INTRODUCTION & WELCOME
+--------------------------------------------------------------------------------
+Welcome to Nexus Enterprise Solutions Inc. (hereinafter referred to as the 
+"Company"). We are thrilled to welcome you to a team dedicated to innovation, 
+excellence, and sustainable growth. This Employee Policy Manual ("Manual") is 
+designed to serve as a comprehensive roadmap for your professional journey with 
+us. It outlines the foundational values, cultural expectations, operational 
+protocols, and compliance legal frameworks that govern our daily workspace 
+interactions.
+
+Every employee is requested to read, understand, and comply with all provisions 
+of this manual. This document replaces all previously issued policies, manuals, 
+handbooks, or verbal agreements concerning your employment terms, conditions, 
+or corporate benefits.
+
+--------------------------------------------------------------------------------
+2. AT-WILL EMPLOYMENT STATEMENT
+--------------------------------------------------------------------------------
+Employment with Nexus Enterprise Solutions Inc. is strictly on an "at-will" 
+basis. This means that either the Employee or the Company may terminate the 
+employment relationship at any time, for any reason, or for no reason at all, 
+with or without cause, and with or without advance notice.
+
+No supervisor, manager, executive, or representative of the Company, other 
+than the Chief Executive Officer (CEO) via an explicit, written, and signed 
+bilateral contract, has any authority to enter into any agreement for 
+employment for any specified period of time, or to make any binding promises 
+contrary to this at-will framework.
+
+--------------------------------------------------------------------------------
+3. EQUAL EMPLOYMENT OPPORTUNITY (EEO) POLICY
+--------------------------------------------------------------------------------
+Nexus Enterprise Solutions Inc. is fully committed to providing equal employment 
+opportunities to all qualified individuals. We prohibit unlawful discrimination 
+against applicants or employees based on:
+- Race, color, nationality, or ancestral origin.
+- Religion, creed, or spiritual beliefs.
+- Sex, gender identity, gender expression, or sexual orientation.
+- Pregnancy, childbirth, or related medical conditions.
+- Age (40 and over).
+- Physical disability, mental disability, or genetic profile.
+- Military status or veteran status.
+
+This non-discrimination policy applies to every single aspect of employment, 
+including recruitment, hiring, placement, promotion, transfer, compensation, 
+training, leaves of absence, benefits, discipline, layout, and termination.
+
+--------------------------------------------------------------------------------
+4. ANTI-HARASSMENT AND DISCRIMINATION POLICY
+--------------------------------------------------------------------------------
+The Company maintains a strict zero-tolerance policy toward any form of 
+harassment, bullying, or discrimination in our physical or digital workspaces. 
+Harassment consists of unwelcome verbal, physical, or visual conduct that is 
+predicated on an individual's protected characteristics when:
+1. Submission to such conduct is made an explicit or implicit condition of 
+   employment.
+2. Submission or rejection is used as a baseline for employment decisions.
+3. Such conduct creates an intimidating, hostile, or offensive environment.
+
+Sexual harassment specifically includes unwelcome sexual advances, requests for 
+sexual favors, inappropriate text messages, suggestive emails, explicit digital 
+media, or offensive jokes. 
+
+Reporting Procedures:
+If you believe you are experiencing harassment or witnessing it, you must 
+immediately file a formal report with your direct Supervisor or the Human 
+Resources Department at hr@nexusenterprise.com. 
+
+Investigation Framework:
+All complaints will be investigated promptly, thoroughly, and impartially with 
+the highest degree of confidentiality possible. If the investigation confirms a 
+violation, swift corrective action up to and including termination will occur.
+
+Retaliation Prohibited:
+The Company absolutely prohibits retaliation against any individual who reports 
+harassment or participates in an investigation in good faith. Any employee 
+found engaging in retaliatory behavior will face immediate termination.
+
+--------------------------------------------------------------------------------
+5. CODE OF CONDUCT AND ETHICAL STANDARDS
+--------------------------------------------------------------------------------
+Employees must consistently execute their duties with honesty, integrity, and 
+the highest level of professionalism. Our collective reputation relies on individual 
+choices. The following behavioral mandates must be observed:
+- Comply fully with federal, state, and local laws.
+- Treat colleagues, clients, vendors, and partners with dignity and courtesy.
+- Maintain accurate, truthful corporate records, timecards, and expense reports.
+- Safeguard all physical and digital corporate assets from theft, loss, and waste.
+- Report any unethical behavior, financial malfeasance, or fraud immediately.
+
+--------------------------------------------------------------------------------
+6. CONFLICT OF INTEREST DISCLOSURES
+--------------------------------------------------------------------------------
+Employees must avoid any relationship, financial investment, or external activity 
+that creates a conflict of interest or even the appearance of a conflict with 
+the interests of Nexus Enterprise Solutions Inc. 
+
+Prohibited actions include:
+- Working for a direct competitor, client, or supplier as a consultant or second-
+  job employee without prior written authorization from HR.
+- Using Company resources, time, equipment, or facilities for personal profit.
+- Accepting individual gifts, entertainment, or favors from vendors that exceed 
+  a nominal valuation of $50 without explicit executive approval.
+- Directing Company business transactions toward vendors owned or operated by 
+  immediate family members without disclosing the tie to management beforehand.
+
+--------------------------------------------------------------------------------
+7. WORKPLACE HOURS AND ATTENDANCE EXPECTATIONS
+--------------------------------------------------------------------------------
+Core operational business hours for Nexus Enterprise Solutions Inc. are 
+Monday through Friday, from 9:00 AM to 5:00 PM local time. Your specific work 
+schedule will be designated by your direct functional department manager.
+
+Punctuality and consistent attendance are fundamental requirements of your job 
+role. If you are going to be late or absent due to an illness or unforeseen emergency, 
+you must notify your supervisor at least 60 minutes prior to your scheduled 
+start time via email, Slack, or telephone text. 
+
+Unexcused, undocumented, or excessive absenteeism and tardiness disrupt operations 
+and will trigger progressive disciplinary steps, up to job forfeiture. Job 
+abandonment is defined as missing 3 consecutive business days without any 
+operational communication, resulting in voluntary resignation.
+
+--------------------------------------------------------------------------------
+8. REMOTE WORK AND HYBRID ARRANGEMENTS
+--------------------------------------------------------------------------------
+The Company supports hybrid work frameworks for eligible positions. Remote work 
+is not an entitlement; it is a flexible operational privilege subject to management 
+discretion and ongoing performance metrics.
+
+Expectations for Remote Days:
+- Employees must remain accessible via Slack, Email, and Zoom during core hours.
+- Video cameras should be active during standard internal and external meetings.
+- Internet connectivity must meet a minimum download speed of 50 Mbps.
+- The remote workspace must be quiet, professional, and free of background noise.
+
+The Company provides a standard hardware package (laptop, monitor, keyboard, 
+mouse). Employees are entirely liable for maintaining the safety, security, and 
+confidentiality of these devices within their home environments.
+
+--------------------------------------------------------------------------------
+9. COMPENSATION, OVERTIME, AND PAYROLL PROCEDURES
+--------------------------------------------------------------------------------
