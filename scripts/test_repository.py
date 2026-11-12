@@ -59,7 +59,7 @@ try:
 
     print("Expected chunks:", len(chunks))
     print("Saved chunks:", len(saved_chunks))
-
+    
     assert len(saved_chunks) == len(chunks)
 
     # Verify duplicate detection.
@@ -84,8 +84,8 @@ try:
 
 finally:
     # Remove test data so it doesn't pollute the database.
-    if document is not None:
-        db.delete(document)
-        db.commit()
+    # if document is not None:
+    #     db.delete(document)
+    #     db.commit()
 
     db.close()
