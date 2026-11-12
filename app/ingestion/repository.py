@@ -114,3 +114,6 @@ def save_document(
     except Exception:
         db.rollback()
         raise
+
+def get_document_by_checksum(db: Session, checksum: str) -> Document | None:
+    return db.query(Document).filter(Document.checksum == checksum).first()
