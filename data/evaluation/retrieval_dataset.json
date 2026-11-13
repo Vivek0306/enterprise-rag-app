@@ -1,0 +1,101 @@
+
+[
+  {
+    "question": "What professional conduct is expected from employees?",
+    "relevant_chunk_ids": [
+      "ce82d727-b0e2-4ef4-b2c7-0305515e8371"
+    ]
+  },
+  {
+    "question": "Can full-time employees take outside employment or consulting work?",
+    "relevant_chunk_ids": [
+      "ce82d727-b0e2-4ef4-b2c7-0305515e8371",
+      "dfe3adf9-58af-484d-9416-e5bf563ae5a4"
+    ]
+  },
+  {
+    "question": "What are the limits on gifts received from vendors?",
+    "relevant_chunk_ids": [
+      "e397d6e9-eeaa-4137-82e4-999a4fe38dba"
+    ]
+  },
+  {
+    "question": "What are the standard working hours and core operating hours?",
+    "relevant_chunk_ids": [
+      "b56342ae-e5c6-45af-b3e9-25148d6381f5"
+    ]
+  },
+  {
+    "question": "How should employees report unexpected absences?",
+    "relevant_chunk_ids": [
+      "ad97f284-9d1a-4446-bf2b-cb793158a821"
+    ]
+  },
+  {
+    "question": "What are the overtime compensation rates and approval requirements?",
+    "relevant_chunk_ids": [
+      "190b31e9-8635-4f2d-ae3f-973b63d7f302"
+    ]
+  },
+  {
+    "question": "When do full-time employees become eligible for medical insurance?",
+    "relevant_chunk_ids": [
+      "a172f0f1-d776-492f-990e-15cc48b7d029"
+    ]
+  },
+  {
+    "question": "How much PTO can employees carry over into the next calendar year?",
+    "relevant_chunk_ids": [
+      "26beecfe-40c6-4ddf-8334-d06755ecf0a5"
+    ]
+  },
+  {
+    "question": "How much paid parental leave is available and who qualifies?",
+    "relevant_chunk_ids": [
+      "91178ac5-df22-4ee9-a269-7d9fa4a1b3d8"
+    ]
+  },
+  {
+    "question": "What are the password and multi-factor authentication requirements?",
+    "relevant_chunk_ids": [
+      "268af2ba-a8bf-47e8-b389-439cab758858"
+    ]
+  },
+  {
+    "question": "How quickly must suspected security incidents be reported?",
+    "relevant_chunk_ids": [
+      "45959f08-2d90-47b4-b1cb-140ed88717f5"
+    ]
+  },
+  {
+    "question": "Where must employees assemble during an emergency evacuation?",
+    "relevant_chunk_ids": [
+      "e68b0f51-5ce5-4ac9-9819-12b5708e5037"
+    ]
+  },
+  {
+    "question": "How should employees report workplace harassment?",
+    "relevant_chunk_ids": [
+      "4e03bec1-7632-442d-bf1c-2e352c6c71cb"
+    ]
+  },
+  {
+    "question": "Who owns intellectual property developed by employees during employment?",
+    "relevant_chunk_ids": [
+      "4e03bec1-7632-442d-bf1c-2e352c6c71cb",
+      "c6d51154-800a-4c32-933e-20f3188bb8ca"
+    ]
+  },
+  {
+    "question": "What are the steps in the progressive disciplinary process?",
+    "relevant_chunk_ids": [
+      "f5964b78-96da-499a-ba87-87ba5c9de09d"
+    ]
+  },
+  {
+    "question": "What notice period is required for voluntary resignation?",
+    "relevant_chunk_ids": [
+      "0b23cfd7-4c9c-4509-a9fe-da3abfa96a65"
+    ]
+  }
+]

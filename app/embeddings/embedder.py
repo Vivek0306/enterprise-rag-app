@@ -14,7 +14,7 @@ def generate_embeddings(texts:  list[str]) -> list[list[float]]:
 
     if not texts:
         return []
-    print(texts)
+
     if any(not text or not text.strip() for text in texts):
         raise ValueError("Cannot embed empty text.")
 
