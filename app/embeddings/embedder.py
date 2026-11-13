@@ -1,13 +1,20 @@
+from docx import text
 import ollama
 
 EMBEDDING_MODEL = "bge-m3"
 EXPECTED_DIMENSION = 1024
 
+def generate_embedding(texts:  str) -> list[float]:
+
+    embeddings = generate_embeddings([texts])
+    return embeddings[0]
+
+
 def generate_embeddings(texts:  list[str]) -> list[list[float]]:
 
     if not texts:
         return []
-    
+    print(texts)
     if any(not text or not text.strip() for text in texts):
         raise ValueError("Cannot embed empty text.")
 

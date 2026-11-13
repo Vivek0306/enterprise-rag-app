@@ -10,8 +10,9 @@ from sqlalchemy import (
     Text,
     UniqueConstraint,
     func,
+    Computed,
 )
-from sqlalchemy.dialects.postgresql import JSONB, UUID
+from sqlalchemy.dialects.postgresql import JSONB, TSVECTOR, UUID
 from sqlalchemy.orm import DeclarativeBase, Mapped, mapped_column, relationship
 from pgvector.sqlalchemy import Vector
 
@@ -119,3 +120,11 @@ class DocumentChunk(Base):
     document: Mapped["Document"] = relationship(
         back_populates="chunks",
     )
+
+    content_tsv: Mapped[str] = mapped_column(
+    TSVECTOR,
+    Computed(
+        "to_tsvector('english', coalesce(content, ''))",
+        persisted=True,
+    ),
+)
